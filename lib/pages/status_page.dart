@@ -35,7 +35,7 @@ class StatusPage extends StatelessWidget {
                 ),
                 const Expanded(
                   child: ListTile(
-                    title: Text('My Status'),
+                    title: Text('Mi estado'),
                     subtitle: Padding(
                       padding: EdgeInsets.only(top: 2.0),
                       child: Text('Tap to add status update'),
